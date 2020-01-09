@@ -1,3 +1,4 @@
 Simple Email is a continuation of the Seam 3 Mail Module.
 
 Has been refactored to com.outjected.mail packaging and CDI integration removed for simplicity.
+install -DskipTests=true
